@@ -1,0 +1,1 @@
+thing = input("what is your fav thing")
